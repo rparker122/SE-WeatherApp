@@ -73,11 +73,6 @@ This project is licensed under the [MIT License](LICENSE)
 
 Created by [Robert Parker](https://github.com/rparker122)
 
-```
 
----
-
-
-```
 
 
